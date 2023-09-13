@@ -15,7 +15,7 @@ curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main
 git clone https://github.com/mrjockernet/jknet/;
 cd jknet;
 mv menujk /data/data/com.termux/files/usr/bin;
-chmod +rwx menujk;
+chmod +rwx /data/data/com.termux/files/usr/bin/menujk;
 sleep 1
 echo -e "\033[1;32mFinalizando..."
 sleep 2
