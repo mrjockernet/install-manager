@@ -11,7 +11,7 @@ pkg update -y;
 pkg upgrade -y;
 pkg install wget;
 pkg install curl wget man bc git python tree ffmpeg busybox termux-tools android-tools zstd xz-utils;
-curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/installServer.sh | bash
+curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/installServer.sh | bash;
 git clone https://github.com/mrjockernet/jknet/;
 cd jknet;
 mv menujk /data/data/com.termux/files/usr/bin;
