@@ -1,5 +1,7 @@
 # install-manager
 
+⚠️script para termux android⚠️
+
 instalador de arquivos necessarios para o script: https://github.com/mrjockernet/jknet/
 
 @mrjockernet
